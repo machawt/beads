@@ -1,0 +1,22 @@
+
+.bead {
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  display: inline-block;
+}
+ .red{background-color: red;}
+ .green{background-color: green;}
+ 
+ .blue{background-color: blue;}
+ 
+ .white{background-color: white;}
+ 
+ .yellow{background-color: orange;}
+ 
+ .orange{background-color: orange;}
+ 
+ .purple{background-color: purple;}
+ 
+ .brown {background-color: brown;}
+ 
