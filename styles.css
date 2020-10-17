@@ -7,7 +7,7 @@
  border: 2px solid black;
   display: inline-block;
 }
-div{float:left; border:2px solid black; border-radius:10%;padding:1em;margin:1em;}
+div{float:left; border:2px solid black; border-radius:30%;padding:1em;margin:1em;}
  .red{background-color: red;}
  .green{background-color: green;}
  
@@ -23,5 +23,5 @@ div{float:left; border:2px solid black; border-radius:10%;padding:1em;margin:1em
  
  .violet {background-color: violet;}
  
-.yellow-blue {background-image: linear-gradient(90deg, Yellow 25%, Cyan 25%, Cyan 50%, Yellow 50%, Yellow 75%, Cyan 75%, Cyan 100%);
+.yellow-blue {background-image: linear-gradient(90deg, Yellow 50%, Blue 50%);
 background-size: 25px 25px;}
