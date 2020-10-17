@@ -23,5 +23,5 @@ div{float:left; border:2px solid black; border-radius:3%}
  
  .violet {background-color: violet;}
  
-.yellow-blue {
- background: repeating-linear-gradient( yellow 50%, blue 50%)}
+.yellow-blue {background-image: linear-gradient(90deg, Yellow 25%, Cyan 25%, Cyan 50%, Yellow 50%, Yellow 75%, Cyan 75%, Cyan 100%);
+background-size: 25px 25px;}
