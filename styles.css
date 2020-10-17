@@ -7,7 +7,7 @@
  border: 2px solid black;
   display: inline-block;
 }
-div{float:right;}
+div{float:left; border:2px solid black; border-radius:5%}
  .red{background-color: red;}
  .green{background-color: green;}
  
