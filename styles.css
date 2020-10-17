@@ -6,6 +6,7 @@
   border-radius: 50%;
  border: 2px solid black;
   display: inline-block;
+ font-size:1em;
 }
 div{float:left; border:2px solid black; border-radius:30%;padding:1em;margin:1em;}
  .red{background-color: red;}
@@ -24,4 +25,7 @@ div{float:left; border:2px solid black; border-radius:30%;padding:1em;margin:1em
  .violet {background-color: violet;}
  
 .yellow-blue {background-image: linear-gradient(90deg, Yellow 50%, Blue 50%);
+background-size: 25px 25px;}
+
+.green-yellow {background-image: linear-gradient(90deg, green 50%, yellow 50%);
 background-size: 25px 25px;}
