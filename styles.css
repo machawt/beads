@@ -4,20 +4,21 @@
   height: 25px;
   width: 25px;
   border-radius: 50%;
+ border:black solid 2px;
   display: inline-block;
 }
  .red{background-color: red;}
  .green{background-color: green;}
  
- .blue{background-color: blue;}
+ .blue{background-color: cyan;}
  
  .white{background-color: white;}
  
- .yellow{background-color: orange;}
+ .yellow{background-color: yellow;}
  
  .orange{background-color: orange;}
  
- .purple{background-color: purple;}
+ .indigo{background-color: #00f;}
  
- .brown {background-color: brown;}
+ .violet {background-color: violet;}
  
