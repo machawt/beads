@@ -1,5 +1,13 @@
-
- body{background-color: #bbbbbb;}
+body{background-color: #bbbbbb;}
+header{font-size:2em;}
+.writewhite{font-color:#fff;}
+.writered{font-color:#f00;}
+.writegreen{font-color:#0f0;}
+.writeblue{font-color:#0ff;}
+.writeyellow{font-color:#ff0;}
+.writeorange{font-color:#f80;}
+.writeindigo{font-color:#00f;}
+.writeviolet{font-color:#7f00ff;}
 .bead {
   height: 2em;
   width: 2em;
