@@ -10,22 +10,22 @@
 }
 div{float:left; border:2px solid black; border-radius:30%;padding:1em;margin:1em;}
  .red{background-color: red;}
- .green{background-color: green;}
+ .green{background-color: #0f0;}
  
- .blue{background-color: cyan;}
+ .blue{background-color: #0ff;}
  
- .white{background-color: white;}
+ .white{background-color: #fff;}
  
- .yellow{background-color: yellow;}
+ .yellow{background-color: #ff0;}
  
  .orange{background-color: orange;}
  
  .indigo{background-color: #00f;}
  
- .violet {background-color: violet;}
+ .violet {background-color: #7f00ff;}
  
-.yellow-blue {background-image: linear-gradient(90deg, Yellow 50%, Blue 50%);
+.yellow-blue {background-image: linear-gradient(90deg, #ff0 50%, Blue #0ff 50%);
 background-size: 25px 25px;}
 
-.green-yellow {background-image: linear-gradient(90deg, green 50%, yellow 50%);
+.green-yellow {background-image: linear-gradient(90deg, #0f0 50%, #ff0 50%);
 background-size: 25px 25px;}
