@@ -1,5 +1,5 @@
 body{background-color: #bbbbbb;}
-header{font-size:1.2em;}
+header{font-size:1.5em;}
 .writewhite{color:#fff;}
 .writered{color:#f00;}
 .writegreen{color:#0f0;}
@@ -10,7 +10,7 @@ header{font-size:1.2em;}
 .writeviolet{color:#7f00ff;}
 .bead {
   height: 2em;
-  width: 4%;
+  width: 5%;
   border-radius: 50%;
  border: 2px solid black;
   display: inline-block;
@@ -20,13 +20,13 @@ header{font-size:1.2em;}
   height: 50%;
   width: 50%;
   border-radius: 50%;
- border: 1px dotted #000;
+ border: 2px solid #000;
   display: inline-block;
  margin:auto;
  font-size:1em;
 }
 .YHWH {background-color: #fff;}
-div{float:left; width:40%;border:2px solid black; border-radius:50%;padding:1em;margin:2em;}
+div{float:left; width:47%;border:2px solid black; border-radius:50%;padding:1em;margin:2em;}
  .red{background-color: red;}
  .green{background-color: #0f0;}
  
