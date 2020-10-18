@@ -42,15 +42,19 @@ div{float:left; border:2px solid black; border-radius:50%;padding:1em;margin:1em
  .indigo{background-color: #00f;}
  
  .violet {background-color: #7f00ff;}
-.orange-red {background-image: linear-gradient(90deg, #f80 50%, #f00 50%);
+.orange-red {background-image: linear-gradient(to right, #f80, #f00);
 background-size: 25px 25px;} 
- .green-violet {background-image: linear-gradient(90deg, #0f0 50%, #7f00ff 50%);
+ .green-violet {background-image: linear-gradient(to right, #0f0, #7f00ff);
 background-size: 25px 25px;} 
-.yellow-blue {background-image: linear-gradient(90deg, #ff0 50%, #0ff 50%);
+.yellow-blue {background-image: linear-gradient(to right, #ff0, #0ff);
 background-size: 25px 25px;}
-.yellow-indigo {background-image: linear-gradient(90deg, #ff0 50%, #00f 50%);
+.yellow-indigo {background-image: linear-gradient(to right, #ff0, #00f);
 background-size: 25px 25px;}
-.green-yellow {background-image: linear-gradient(90deg, #0f0 50%, #ff0 50%);
+.green-yellow {background-image: linear-gradient(to right, #0f0, #ff0);
 background-size: 25px 25px;}
-.blue-indigo {background-image: linear-gradient(90deg, #0ff 50%, #00f 50%);
+.blue-indigo {background-image: linear-gradient(to right, #0ff, #00f);
 background-size: 25px 25px;}
+#rainbow {
+  height: 55px;
+  background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+}
