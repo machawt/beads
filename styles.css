@@ -1,13 +1,13 @@
 body{background-color: #bbbbbb;}
 header{font-size:2em;}
-.writewhite{font-color:#fff;}
-.writered{font-color:#f00;}
-.writegreen{font-color:#0f0;}
-.writeblue{font-color:#0ff;}
-.writeyellow{font-color:#ff0;}
-.writeorange{font-color:#f80;}
-.writeindigo{font-color:#00f;}
-.writeviolet{font-color:#7f00ff;}
+.writewhite{color:#fff;}
+.writered{color:#f00;}
+.writegreen{color:#0f0;}
+.writeblue{color:#0ff;}
+.writeyellow{color:#ff0;}
+.writeorange{color:#f80;}
+.writeindigo{color:#00f;}
+.writeviolet{color:#7f00ff;}
 .bead {
   height: 2em;
   width: 2em;
@@ -15,7 +15,7 @@ header{font-size:2em;}
  border: 2px solid black;
   display: inline-block;
  font-size:1em;
-}
+ text-align: center;}
 .dot {
   height: 50%;
   width: 50%;
