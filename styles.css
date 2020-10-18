@@ -1,5 +1,5 @@
 body{background-color: #bbbbbb;}
-header{font-size:2em;}
+header{font-size:1.2em;}
 .writewhite{color:#fff;}
 .writered{color:#f00;}
 .writegreen{color:#0f0;}
@@ -26,7 +26,7 @@ header{font-size:2em;}
  font-size:1em;
 }
 .YHWH {background-color: #fff;}
-div{float:left; border:2px solid black; border-radius:50%;padding:1em;margin:.5em;}
+div{float:left; width:40%;border:2px solid black; border-radius:50%;padding:1em;margin:auto;}
  .red{background-color: red;}
  .green{background-color: #0f0;}
  
