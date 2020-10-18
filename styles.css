@@ -17,7 +17,7 @@
  margin:auto;
  font-size:1em;
 }
-div{float:left; border:2px solid black; border-radius:50%;padding:.5em;margin:.5em;}
+div{float:left; border:2px solid black; border-radius:50%;padding:1em;margin:.5em;}
  .red{background-color: red;}
  .green{background-color: #0f0;}
  
