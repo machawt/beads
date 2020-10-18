@@ -8,6 +8,15 @@
   display: inline-block;
  font-size:1em;
 }
+.spot {
+  height: 25%;
+  width: 25%;
+  border-radius: 50%;
+ border: 2px solid black;
+  display: inline-block;
+ margin:auto;
+ font-size:1em;
+}
 div{float:left; border:2px solid black; border-radius:30%;padding:1em;margin:1em;}
  .red{background-color: red;}
  .green{background-color: #0f0;}
@@ -15,7 +24,8 @@ div{float:left; border:2px solid black; border-radius:30%;padding:1em;margin:1em
  .blue{background-color: #0ff;}
  
  .white{background-color: #fff;}
- 
+  .YHWH{background-color: #fff;}
+
  .yellow{background-color: #ff0;}
  
  .orange{background-color: orange;}
