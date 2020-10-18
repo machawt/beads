@@ -34,7 +34,7 @@ div{float:left; border:2px solid black; border-radius:50%;padding:1em;margin:.5e
  
  .violet {background-color: #7f00ff;}
  
-.yellow-blue {background-image: linear-gradient(90deg, #ff0 50%, Blue #0ff 50%);
+.yellow-blue {background-image: linear-gradient(90deg, #ff0 50%, #0ff 50%);
 background-size: 25px 25px;}
 
 .green-yellow {background-image: linear-gradient(90deg, #0f0 50%, #ff0 50%);
