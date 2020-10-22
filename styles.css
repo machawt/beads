@@ -22,12 +22,12 @@ margin:.5em;}
   width: 50%;
   border-radius: 50%;
  border: 2px solid #000;
-display: inline-block;
+display: inline-block; 
 }
 .YHWH {background-color: #fff;}
 .heart {background-color: #f00;}
 
-div{border:2px dotted black; border-radius:50%;padding:1em;width:auto;margin:auto;}
+div{border:2px dotted black; border-radius:50%;padding:1em;height:3em;width:30em;margin:.5em;}
  .red{background-color: red;}
  .green{background-color: #0f0;}
  
