@@ -1,4 +1,4 @@
-body{background-color: #bbbbbb;font-size:1.2em;}
+body{background-color: #bbbbbb;}
 header{font-size:1.5em;}
 .writewhite{color:#fff;}
 .writered{color:#f00;}
@@ -18,8 +18,8 @@ header{font-size:1.5em;}
  text-align: center;
 margin:.5em;}
 .dot {
-  height: 50%;
-  width: 50%;
+  height: 300%;
+  width: 30%;
   border-radius: 50%;
  border: 2px solid #000;
 display: inline-block; 
@@ -27,7 +27,7 @@ display: inline-block;
 .YHWH {background-color: #fff;}
 .heart {background-color: #f00;}
 
-div{border:2px dotted black; border-radius:50%;padding:1em;height:3em;width:35em;margin:auto;}
+div{border:2px dotted black; border-radius:50%;padding:1em;height:3em;width:30em;margin:auto;}
  .red{background-color: red;}
  .green{background-color: #0f0;}
  
