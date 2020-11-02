@@ -16,7 +16,7 @@ header{font-size:1.5em;}
   display: inline-block;
  font-size:1em;
  text-align: center;
-margin:.5em;}
+margin:.2em;}
 .dot { font-size:1em;
   height: 30%;
   width: 30%;
@@ -26,7 +26,7 @@ display: inline-block;
 }
 .YHWH {background-color: #fff;}
 .heart {background-color: #f00;}
-.letter{color:#ff0;font-size:2em;}
+.letter{color:#000;font-size:.5em;}
 div{border:2px dotted black; border-radius:50%;padding:1em;height:3em;width:30em;margin:auto;}
  .red{background-color: red;}
  .green{background-color: #0f0;}
