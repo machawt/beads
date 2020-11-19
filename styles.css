@@ -24,6 +24,12 @@ margin:.2em;}
  border: 2px solid #000;
 display: inline-block; 
 }
+.arrow-down{
+  width: 0;
+  height: 0;
+  border-left:1em solid transparent;
+  border-right:1em solid transparent;
+  border-top:1em solid #f00;}
 .YHWH {background-color: #fff;}
 .heart {background-color: #f00;}
 .letter{color:#000;font-size:1.5em;}
