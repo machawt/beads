@@ -30,6 +30,27 @@ display: inline-block;
   border-left:1em solid transparent;
   border-right:1em solid transparent;
   border-top:1em solid #f00;}
+
+.arrow-up{
+  width: 0;
+  height: 0;
+  border-left:1em solid transparent;
+  border-right:1em solid transparent;
+  border-bottom:1em solid #f00;}
+
+.arrow-left{
+  width: 0;
+  height: 0;
+  border-bottom:1em solid transparent;
+  border-top:1em solid transparent;
+  border-right:1em solid #f00;}
+.arrow-right{
+  width: 0;
+  height: 0;
+  border-bottom:1em solid transparent;
+  border-top:1em solid transparent;
+  border-left:1em solid #f00;}
+
 .YHWH {background-color: #fff;}
 .heart {background-color: #f00;}
 .letter{color:#000;font-size:1.5em;}
