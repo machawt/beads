@@ -41,9 +41,9 @@ display: inline-block;
 .arrow-left{
   width: 0;
   height: 0;
-  border-bottom:1em solid transparent;
-  border-top:1em solid transparent;
-  border-right:1em solid #f00;}
+  border-bottom:.4em solid transparent;
+  border-top:.4em solid transparent;
+  border-right:.4em solid #f00;}
 .arrow-right{
   width: 0;
   height: 0;
