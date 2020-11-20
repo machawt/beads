@@ -9,6 +9,7 @@ header{font-size:1.5em;}
 .writeindigo{color:#00f;}
 .writeviolet{color:#7f00ff;}
 .bead {
+  white-space:normal;
   height: 3em;
   width: 3em;
   border-radius: 50%;
