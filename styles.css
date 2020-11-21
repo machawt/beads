@@ -20,7 +20,7 @@ header{font-size:1.5em;}
 margin:.2em;}
 
 /*emotion bead top right bottom left*/
-#16, #24 {border-style: hidden solid solid solid}
+#16,#24{border-style:hidden solid solid solid}
 .dot { font-size:1em;
   height: 30%;
   width: 30%;
